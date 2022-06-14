@@ -6,5 +6,7 @@ public class Git4 {
     System.out.println("learning git");
         System.out.println("hello");
 
+        System.out.println("commiting changes");
+
 }
 }
