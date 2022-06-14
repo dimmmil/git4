@@ -8,6 +8,5 @@ public class Git4 {
 
         System.out.println("commiting changes");
 
-System.out.println("reverting changes");
 }
 }
