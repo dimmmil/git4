@@ -10,6 +10,6 @@ public class Git4 {
 
         System.out.println("amending");
 
-        int a =5;
+
 }
 }
