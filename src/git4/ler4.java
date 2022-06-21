@@ -6,6 +6,5 @@ public class ler4 {
         System.out.println("automation test ");
         System.out.println("new change");
         System.out.println("amending");
-        System.out.println("reverting");
     }
 }
